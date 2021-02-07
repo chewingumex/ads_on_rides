@@ -1,7 +1,11 @@
-
-README
-
-ADS ON RIDES FUNCTIONALITY:
+_______________________________________________________________________________________________
+    __     _____      __           __     _     _      ____       __   _____    _____      __  
+    / |    /    )   /    )       /    )   /|   /       /    )     /    /    )   /    '   /    )
+---/__|---/----/----\-----------/----/---/-| -/-------/___ /-----/----/----/---/__-------\-----
+  /   |  /    /      \         /    /   /  | /       /    |     /    /    /   /           \    
+_/____|_/____/___(____/_______(____/___/___|/_______/_____|__ _/_ __/____/___/____ ___(____/___
+                                                                                               
+FUNCTIONALITY:
 
 - ADS ON RIDES is a user friendly visualisation tool that can be used to estimate cycle traffic based on the number of hires of London's Santander Cycle Hire Scheme.
 - Its main objective is to aid campaign planners to optimise wheely billboards locations.
