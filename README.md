@@ -11,7 +11,7 @@ ADS ON RIDES TECHNICAL SPECS:
 
 - ADS ON RIDES is powered by the public dataset london_bycicles dataset (datasetID: bigquery-public-data:london_bicycles) maintained by Google and accessible on BQ.
 - The visualisation tool was built using Data Studio and is accessible through the link. Please get in touch should you want to check out the demo. 
-- To extract the data on which ADS ON RIDES runs, simply run the main_query.sql on Big Query and save or export the data.
+- To extract the data on which ADS ON RIDES runs, simply run main_query.sql (found in this repo) on Big Query and save or export the data.
 
 ADS ON RIDES INSTRUCTIONS:
 
